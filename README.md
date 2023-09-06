@@ -1,3 +1,3 @@
 # rishabh-demo
-this is my first github repository
-author- rishabh juyal
+this is my first github repository.
+Author- rishabh juyal
